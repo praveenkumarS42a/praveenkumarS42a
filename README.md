@@ -1,287 +1,194 @@
 <div align="center">
 
-# 👋 Hi, I'm Praveenkumar
+# Hi, I'm Praveenkumar 👋
 
-### AI & Data Science Student | Software Developer | Problem Solver
+### AI & Data Science Student · Software Developer · Problem Solver
 
-**Data Analytics • Artificial Intelligence • Machine Learning • Full Stack Development**
+*Turning data into decisions and ideas into working software.*
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-00B894?style=for-the-badge" />
+</p>
 
 <p>
   <a href="https://github.com/praveenkumarS42a">
-    <img src="https://img.shields.io/github/followers/praveenkumarS42a?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/praveenkumarS42a?label=Followers&style=for-the-badge&color=blue" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=praveenkumarS42a&style=for-the-badge&color=blue" />
 </p>
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student**
+I'm a **B.Tech student in Artificial Intelligence & Data Science**, driven by a simple idea: raw data only matters when it becomes a decision someone can act on. That's what pulls me toward analytics, machine learning, and building the systems around them.
 
-💻 Passionate about **Software Development, Data Analytics, AI & Machine Learning**
+- 📊 I turn messy datasets into clear, actionable insights
+- 🧠 I enjoy the puzzle-solving side of engineering — from DSA problems to system design
+- 🛠️ I build end-to-end, from data pipelines to the interfaces people actually use
+- 🌱 Currently deepening my skills in **Data Analytics, AI/ML, backend development, and system design**
+- 🎯 Looking for roles where analytical thinking and hands-on engineering meet
 
-🧠 Strong interest in **Problem Solving, Data Structures & Algorithms**
-
-📊 Interested in transforming raw data into **meaningful insights and business solutions**
-
-🔍 Enjoy building projects that solve **real-world problems**
-
-🌱 Currently improving my skills in **Data Analytics, AI/ML, Backend Development and System Design**
-
-🎯 Looking for opportunities where I can combine **technical knowledge, analytical thinking and problem-solving skills**
-
----
+<br/>
 
 ## ⚡ Quick Highlights
 
-<table>
+<table align="center">
 <tr>
-<td align="center">
+<td align="center" width="150">
 <img src="https://img.icons8.com/fluency/48/code.png"/>
-<br/>
-<b>800+</b>
-<br/>
-LeetCode Problems
+<br/><b>800+</b>
+<br/>LeetCode Problems
 </td>
-
-<td align="center">
+<td align="center" width="150">
 <img src="https://img.icons8.com/fluency/48/combo-chart.png"/>
-<br/>
-<b>AI & Data</b>
-<br/>
-Analytics & ML
+<br/><b>AI & Data</b>
+<br/>Analytics & ML
 </td>
-
-<td align="center">
+<td align="center" width="150">
 <img src="https://img.icons8.com/fluency/48/trophy.png"/>
-<br/>
-<b>Hackathon</b>
-<br/>
-Finalist
+<br/><b>Top 8</b>
+<br/>Hackathon Finalist
 </td>
-
-<td align="center">
+<td align="center" width="150">
 <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
-<br/>
-<b>AI/ML</b>
-<br/>
-Project Experience
+<br/><b>4+ Projects</b>
+<br/>AI/ML in Production
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-
+**Programming Languages**
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css" />
 </p>
+C++ · Python · Java · JavaScript · HTML · CSS · SQL
 
-**C++ • Python • Java • JavaScript • HTML • CSS • SQL**
-
----
-
-### 🤖 AI / Machine Learning
-
+**AI / Machine Learning**
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
-
-**Machine Learning • Deep Learning • NLP • Generative AI**
-
-**Libraries & Frameworks:**
-
+Machine Learning · Deep Learning · NLP · Generative AI
 `NumPy` `Pandas` `Scikit-learn` `TensorFlow` `LightGBM`
 
----
+**Data Analytics**
+Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Data Visualization · Feature Engineering · Predictive Analytics · Excel
 
-### 📊 Data Analytics
-
-**Data Cleaning • Exploratory Data Analysis • Statistical Analysis**
-
-**Data Visualization • Feature Engineering • Predictive Analytics**
-
-**SQL • Pandas • NumPy • Excel**
-
----
-
-### 🌐 Web & Backend Development
-
+**Web & Backend Development**
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,spring" />
 </p>
+React.js · Node.js · Express.js · FastAPI · Spring Boot
 
-**React.js • Node.js • Express.js • FastAPI • Spring Boot**
-
----
-
-### 🗄️ Databases & Data Technologies
-
+**Databases & Data Engineering**
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
+MySQL · MongoDB · PostgreSQL · Supabase · Apache Spark · Kafka · Hadoop · Apache NiFi · Airflow
 
-**MySQL • MongoDB • PostgreSQL • Supabase**
-
-**Apache Spark • Kafka • Hadoop • Apache NiFi • Airflow**
-
----
-
-### ⚙️ Tools & Platforms
-
+**Tools & Platforms**
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,postman" />
 </p>
+Git · GitHub · Docker · VS Code · Jupyter Notebook · Postman
 
-**Git • GitHub • Docker • VS Code • Jupyter Notebook • Postman**
+<br/>
 
----
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+### 🤖 Autonomous Data Analysis Agent
+An AI-powered system that lets users upload a dataset and get back automated exploratory analysis, generated insights, and visualizations — no manual scripting required.
 
-## 🤖 Autonomous Data Analysis Agent
+- 📂 CSV upload with automated EDA
+- 🤖 LLM-generated Python/Pandas code for analysis, validated via AST parsing before execution for safer runtime behavior
+- 📈 Interactive visualizations of results
 
-An AI-powered data analysis system that allows users to upload datasets and automatically perform analysis and generate insights.
-
-**Key Features**
-
-- 📂 CSV dataset upload
-- 📊 Automated data analysis
-- 🔎 Exploratory Data Analysis
-- 🤖 AI-assisted insight generation
-- 🐍 LLM-generated Python/Pandas code
-- 🔐 AST-based code validation for safer execution
-- 📈 Interactive data visualization
-
-**Tech Stack**
-
-`Python` `FastAPI` `Streamlit` `Gemini API` `Pandas` `Docker`
+**Stack:** `Python` `FastAPI` `Streamlit` `Gemini API` `Pandas` `Docker`
 
 ---
 
-## ⚡ EV Vehicle Analysis
+### ⚡ EV Vehicle Analysis
+A machine learning application for analyzing electric vehicle data, covering both classification and regression tasks with an interactive front end.
 
-A machine learning-based application for analyzing electric vehicle data and generating predictions.
+- Full pipeline: preprocessing → EDA → modeling → prediction
+- Models: Random Forest Classifier, Random Forest Regressor, Gradient Boosting Regressor
+- **Best R² Score: 0.9020**
 
-**Key Features**
-
-- Data preprocessing
-- Exploratory data analysis
-- Classification
-- Regression
-- Predictive analysis
-- Interactive web interface
-
-**Machine Learning Models**
-
-`Random Forest Classifier`
-
-`Random Forest Regressor`
-
-`Gradient Boosting Regressor`
-
-📈 **Best achieved R² Score: 0.9020**
-
-**Tech Stack**
-
-`Python` `Flask` `Scikit-learn` `Pandas` `NumPy`
+**Stack:** `Python` `Flask` `Scikit-learn` `Pandas` `NumPy`
 
 ---
 
-## 🌱 Mayon – Smart Crop Rotator & Market Profit Optimization
+### 🌱 Mayon — Smart Crop Rotator & Market Profit Optimization
+An intelligent agricultural system that recommends crop rotations and forecasts market profitability using predictive modeling.
 
-An intelligent agricultural system designed to help optimize crop rotation and improve potential market profitability.
+- Crop recommendation engine
+- Agricultural data analysis and profit optimization
+- Predictive analytics for market decisions
 
-**Key Concepts**
-
-- 🌾 Crop recommendation
-- 📊 Agricultural data analysis
-- 💰 Profit optimization
-- 🤖 Machine Learning
-- 📈 Predictive analytics
-
-**Tech Stack**
-
-`TensorFlow` `LightGBM` `Supabase`
+**Stack:** `TensorFlow` `LightGBM` `Supabase`
 
 ---
 
-## 👩‍💻 EmpowerHer
-
-A technology platform designed to provide intelligent assistance using location-based analysis and machine learning.
-
-**Highlights**
+### 👩‍💻 EmpowerHer
+A location-aware assistance platform combining geographic data analysis with machine learning to classify and respond to regional needs.
 
 - Processed **20,000+ geographical zones**
-- Achieved approximately **92% classification accuracy**
-- Machine learning based classification
-- Backend API architecture
-- Database integration
+- **~92% classification accuracy**
+- Custom backend API architecture with database integration
 
-**Tech Stack**
+**Stack:** `React Native` `FastAPI` `PostgreSQL` `AWS` `Machine Learning`
 
-`React Native` `FastAPI` `PostgreSQL` `AWS` `Machine Learning`
+<br/>
 
----
+## 🧠 Problem Solving
 
-# 🧠 Problem Solving
+Consistent problem solving is how I sharpen both algorithmic thinking and software engineering instincts.
 
-I strongly believe that consistent problem solving improves both **algorithmic thinking and software engineering skills**.
+- 🔥 **800+ problems** solved on LeetCode
+- ⭐ **~1700** LeetCode contest rating
+- 💻 **300+ problems** solved across CodeChef & HackerRank
 
-### 🏆 Competitive Programming
+**Core areas:** Arrays · Strings · Hashing · Two Pointers · Binary Search · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming · Greedy Algorithms · Recursion · Backtracking
 
-- 🔥 **800+ problems solved on LeetCode**
-- ⭐ Around **1700 LeetCode contest rating**
-- 💻 **300+ problems solved across CodeChef & HackerRank**
-- 🧩 Regular practice of DSA and algorithmic problems
+<br/>
 
-### Areas I Practice
+## 🏆 Achievements
 
-`Arrays` `Strings` `Hashing` `Two Pointers`
+- 🥇 **Hackathon Finalist** — Top 8 at Hackify 2.0
+- 📄 **Research Paper** — Designed an intelligent autocorrect algorithm for real-time conversion in a multilingual keyboard system
+- 💻 **800+ LeetCode problems solved**, ~1700 contest rating
+- 🧩 **300+ problems** solved across CodeChef and HackerRank
 
-`Binary Search` `Linked Lists` `Stacks` `Queues`
+<br/>
 
-`Trees` `Graphs` `Dynamic Programming`
+## 📚 Currently Learning
 
-`Greedy Algorithms` `Recursion` `Backtracking`
+Data Analytics → Advanced SQL → Business Intelligence → Machine Learning → Generative AI → LLM Applications → RAG & AI Agents → Backend & System Design
 
----
+<br/>
 
-# 🏆 Achievements
+<div align="center">
 
-🥇 **Hackathon Finalist** – Top 8 Finalist in Hackify 2.0
+### 📫 Let's Connect
 
-📄 **Research Paper** – Developed an intelligent autocorrect algorithm for real-time conversion in a multilingual keyboard system
+<!-- Add your links below -->
+<p>
+  <a href="https://github.com/praveenkumarS42a"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+</p>
 
-💻 **800+ LeetCode Problems Solved**
+*Open to opportunities in Data Analytics, AI/ML, and Backend Development.*
 
-⭐ **~1700 LeetCode Contest Rating**
-
-🧩 **300+ Problems** solved across CodeChef and HackerRank
-
----
-
-# 📚 Currently Learning
-
-```text
-Data Analytics
-      ↓
-Advanced SQL
-      ↓
-Business Intelligence
-      ↓
-Machine Learning
-      ↓
-Generative AI
-      ↓
-LLM Applications
-      ↓
-RAG & AI Agents
-      ↓
-Backend & System Design
+</div>
