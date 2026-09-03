@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Praveenkumar 👋
+# Hi, I'm Praveenkumar
 
 ### AI & Data Science Student · Software Developer · Problem Solver
 
